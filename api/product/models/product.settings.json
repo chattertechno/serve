@@ -36,6 +36,9 @@
     },
     "size": {
       "type": "integer"
+    },
+    "color": {
+      "type": "string"
     }
   }
 }
